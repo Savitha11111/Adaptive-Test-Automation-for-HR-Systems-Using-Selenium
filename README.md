@@ -1,4 +1,4 @@
-# Selenium Login Test Automation
+# Adaptive Test Automation for HR Systems Using Selenium
 
 ## Introduction
 This Selenium test script automates the login functionality testing of a web application using Python's Selenium library.
