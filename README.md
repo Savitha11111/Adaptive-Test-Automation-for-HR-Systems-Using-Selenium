@@ -56,7 +56,8 @@ To run this project, ensure you have the following software installed:
 The test execution results generate HTML reports stored in the `Reports` directory after completion.
 
 ## Contributors
-- [Massimiliano Visintainer](https://github.com/MassimilianoVisintainer)
+- [SHRINIDHI HEGDE]
+- [SAVITHA M ](https://github.com/Savitha11111)
 
 ## Acknowledgments
 - Thanks to the Selenium community and contributors for maintaining a powerful testing framework.
